@@ -1,0 +1,31 @@
+# Ignore CLion project files
+.idea/
+*.iml
+
+# Ignore CMake build folders
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Ignore compiled object files and binaries
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+*.dll
+*.dSYM/
+
+# Ignore large data files
+20980712_uniq_words.txt
+
+# macOS system files
+.DS_Store
+
+# Backup files
+*~
