@@ -1,12 +1,4 @@
-## Project 5 - Empirical Analysis of Batch-then-Drain Profile
-
-## Student Information
-Parker Tennier  
-ID: 008768156  
-https://github.com/tennierp/hashtable-analysis.git
-
-## Collaboration & Sources
-Dr. Ali A. Kooshesh provided all of the benchmark tools necessary to run this program as well as the data structure implementations: HashTableDictionary, Operations, and the Main file. The project was built from his original HashMapAnalysis project. I also used a pdf-to-markdown converter to help me better organize my pdf report into a markdown file.
+## Empirical Analysis of Batch-then-Drain Profile
 
 ## Implementation Details
 ### Trace Generator
